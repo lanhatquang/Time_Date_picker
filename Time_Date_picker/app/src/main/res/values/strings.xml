@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Time_Date_picker</string>
+    <string name="name">Quản lý công việc hàng tuần</string>
+    <string name="congviec">Công việc:</string>
+    <string name="noidung">Nội dung:</string>
+    <string name="ngay">Ngày HT:</string>
+    <string name="gio">Giờ HT:</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="them">Thêm CV</string>
+    <string name="danhsach">Danh sách công việc:</string>
+    <string name="d_m_y">22/02/2013</string>
+    <string name="h_m">8:30 AM</string>
+</resources>

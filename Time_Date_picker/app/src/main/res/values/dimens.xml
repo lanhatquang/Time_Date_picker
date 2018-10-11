@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_name">20dp</dimen>
+    <dimen name="textview">100dp</dimen>
+    <dimen name="right">40dp</dimen>
+    <dimen name="top">5dp</dimen>
+</resources>
